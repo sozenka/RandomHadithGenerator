@@ -57,11 +57,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 Should you have any inquiries or wish to contribute further, please reach out with the warmth and respect that our faith teaches us:
 
-Instagram - [@sozenka]([https://www.instagram.com/sozenka/])
+Instagram - [@sozenka](https://www.instagram.com/sozenka/)
 
 Project Link: [https://github.com/sozenka/RandomHadithGenerator](https://github.com/sozenka/RandomHadithGenerator)
 
 
 May Allah (SWT) put barakah in this project, and may it serve as a beneficial knowledge source for all. Ameen.
-
-```
